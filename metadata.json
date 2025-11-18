@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Financiación World Cars",
+  "description": "Una calculadora de financiación de vehículos que permite a los usuarios calcular los pagos mensuales en función de dos planes de precios diferentes: contado y financiado. La aplicación utiliza coeficientes predefinidos para diferentes plazos.",
+  "requestFramePermissions": []
+}
